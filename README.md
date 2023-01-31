@@ -9,5 +9,16 @@ An Arduino timer with a buzzer alarm, control buttons, an analog thermometer and
 ### Information
 Lorem Ipsum
 ### List of Materials (BOM)
-- Arduino
-- Components
+- [1x] Arduino (Arduino Mega 2560 is preffered however an Uno works in a pinch)
+- [1x] Piezo Buzzer
+- [3x] Pushbutton
+- [1x] 100 Ω Resistor
+- [3x] 220 Ω Resistor
+- [1X] 1 kΩ Resistor
+- [3X] 10 kΩ Resistor
+- [8X] 330 Ω Resistor
+- [1x] 4 Digit 7-Segment Display
+- [2x] Red LED
+- [1x] Green LED
+- [1x] 16X2 i2C LCD Display
+- [1x] Thermistor (10k)
