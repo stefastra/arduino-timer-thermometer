@@ -6,8 +6,8 @@ An Arduino timer with a buzzer alarm, control buttons, an analog thermometer and
 
 ![Showcase](embedded_showcase.png)
 
-###Information
+### Information
 Lorem Ipsum
-###List of Materials (BOM)
+### List of Materials (BOM)
 - Arduino
 - Components
