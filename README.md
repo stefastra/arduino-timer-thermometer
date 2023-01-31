@@ -20,5 +20,5 @@ Lorem Ipsum
 - [1x] 4 Digit 7-Segment Display
 - [2x] Red LED
 - [1x] Green LED
-- [1x] 16X2 i2C LCD Display
+- [1x] MCP23008-based, 32 LCD 16 x 2 (I2C)
 - [1x] Thermistor (10k)
