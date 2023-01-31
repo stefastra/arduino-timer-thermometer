@@ -7,9 +7,10 @@ An Arduino timer with a buzzer alarm, control buttons, an analog thermometer and
 ![Showcase](embedded_showcase.png)
 
 ### Information
-Lorem Ipsum
+Looks like a bomb innit
 ### List of Materials (BOM)
 - [1x] Arduino (Arduino Mega 2560 is preffered however an Uno works in a pinch)
+- [1x] Breadboard
 - [1x] Piezo Buzzer
 - [3x] Pushbutton
 - [1x] 100 Ω Resistor
@@ -22,3 +23,5 @@ Lorem Ipsum
 - [1x] Green LED
 - [1x] MCP23008-based, 32 LCD 16 x 2 (I2C)
 - [1x] Thermistor (10k)
+
+Approximate Unit Price (2023, aliexpress) = 7,2€
