@@ -8,6 +8,7 @@ An Arduino timer with a buzzer alarm, control buttons, an analog thermometer and
 
 ### Information
 Looks like a bomb innit
+Features a start/stop button, buttons to add or remove time, indicator LEDs and most importantly an analog thermometer so you know the bomb went off
 ### List of Materials (BOM)
 - [1x] Arduino (Arduino Mega 2560 is preffered however an Uno works in a pinch)
 - [1x] Breadboard
